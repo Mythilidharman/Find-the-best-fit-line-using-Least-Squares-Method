@@ -24,7 +24,7 @@ Developed by: mythili.D
 RegisterNumber: 212222040104 
 */
 ```
-
+```
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -49,7 +49,7 @@ print(Y_pred)
 plt.scatter(X,Y,color='purple')
 plt.plot(X,Y_pred,color='red')
 plt.show()
-
+```
 ## Output:
 ![image](https://github.com/Mythilidharman/Find-the-best-fit-line-using-Least-Squares-Method/assets/119104110/020df731-df54-4812-a537-9be612a0cdeb)
 
